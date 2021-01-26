@@ -1,3 +1,2 @@
 # Distributed-Clipboard
-
-Programação de Sistemas - Projeto
+Systems Programming - Project
